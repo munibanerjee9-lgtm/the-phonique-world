@@ -1,2 +1,2 @@
 # the-phonique-world
-phonique-world
+Your online marketplace connecting buyers and sellers.
